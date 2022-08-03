@@ -14,3 +14,4 @@ Use the arrows to control your spaceship!
 - I will continue to use this project to eventually build a game using JavaScript, HTML and CSS
 - This project is for learning purposes only
 - I will also update this README.md file as I get comfortable with GitHub
+- Can't wait to keep working on this!
